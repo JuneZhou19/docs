@@ -81,6 +81,8 @@ Virtual direct-attached storage
     * Physical information
     * Enable RAM disk to boost virtual disk drive performance 
 
+#. Support drive operation:
+    * Drive erase for SATA & SAS drives
 
 Intelligent power distribute unit simulation
 ------------------------------------------------
